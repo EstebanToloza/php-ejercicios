@@ -9,6 +9,7 @@ function sumar(int $numero1 = 0, int $numero2)
 }
 
 sumar(10, 10);
+sumar(numero1: 30, numero2: 20);
 
 echo "<br>";
 
